@@ -70,7 +70,6 @@ Full Stack Application Developer with strong problem-solving skills and industry
 
 <br>
 
-<h2>🐍 Contribution Snake Game</h2>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="900"/>
