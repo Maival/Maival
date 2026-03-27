@@ -1,6 +1,6 @@
 <!-- Animated GIF Center -->
 <p align="center">
-  <img src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/81bb4b165684019.640b6038d133e.gif" width="700" />
+  <img src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/81bb4b165684019.640b6038d133e.gif" width="600" />
 </p>
 
 <h1 align="center" style="font-size:42px;">Hi, I'm Maival Savaliya</h1>
