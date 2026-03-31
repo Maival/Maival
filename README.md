@@ -22,7 +22,7 @@ Full Stack Application Developer with strong problem-solving skills and industry
 🎓 Graduated in 2025  
 💻 Strong in Data Structures & Algorithms (Java)  
 🔥 Solved 200+ LeetCode problems  
-⭐ 3★ Java on HackerRank  
+⭐ 4★ Java on HackerRank  
 🧠 Focused on clean & scalable code  
 
 
