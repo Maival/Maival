@@ -4,10 +4,10 @@
 </p>
 
 <h1 align="center" style="font-size:42px;">Hi, I'm Maival Savaliya</h1>
-<h2 align="center">Application Developer</h2>
+<h2 align="center">Software Developer</h2>
 
 <p align="center">
-Full Stack Application Developer with strong problem-solving skills and industry experience in building scalable web applications using Java, Spring Boot, Angular, and modern web technologies.
+Software Developer with strong problem-solving skills and industry experience in building scalable web applications using Java, Spring Boot, Angular, and modern web technologies.
 </p>
 
 <p align="center">
@@ -18,7 +18,7 @@ Full Stack Application Developer with strong problem-solving skills and industry
 
 <h2>🚀 About Me</h2>
 
-💼 Application Developer  
+💼 Software Developer  
 🎓 Graduated in 2025  
 💻 Strong in Data Structures & Algorithms (Java)  
 🔥 Solved 200+ LeetCode problems  
